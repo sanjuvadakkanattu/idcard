@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+ body{font-family: 'Montserrat', sans-serif; color:#565656; font-size:14px;} .pink-bg-green{ background:#aacf38; color:#fff}
+ .pf-content h6{ font-size:14px;}
+ 
+ @media screen and (max-width: 767px) {
+ .mob{ text-align:center!important;}	    
+	  
+ }
